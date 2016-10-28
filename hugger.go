@@ -1,5 +1,5 @@
 package hugger
 
 func Hug() string {
-	return "I'm Hugging!"
+	return "You are warmly hugged!\n"
 }
